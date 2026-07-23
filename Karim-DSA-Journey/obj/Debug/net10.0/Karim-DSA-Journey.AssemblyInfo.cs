@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Karim-DSA-Journey")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c03dcce59932369585c6a3ff9885c1f5753692b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa57eea7d73ea100d0d90f53c7654abfeeacb9ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("Karim-DSA-Journey")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Karim-DSA-Journey")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
